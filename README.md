@@ -1,17 +1,17 @@
 composer require midtrans/midtrans.php
 
 // Production
-Merchant ID	
+- Merchant ID
 G479820250
-Client Key	
+- Client Key	
 Mid-client-Oz-BsU7U5-_kwA76
-Server Key	
+- Server Key	
 Mid-server-xrJcgyl_f4gwmlyg93rEXto3
 
 // Sandbox
-Merchant ID	
+- Merchant ID	
 G479820250
-Client Key	
+- Client Key	
 SB-Mid-client-T7tGstPTu1xNiEG7
-Server Key	
+- Server Key	
 SB-Mid-server-aNyMN6S4_am_yDaJ6fpdfrxc
